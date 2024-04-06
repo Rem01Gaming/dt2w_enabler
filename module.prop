@@ -1,7 +1,7 @@
 id=dt2w_enabler
 name=DT2W Enabler
-version=v1.0
+version=1.0
 versionCode=1
 author=@Rem01Gaming
 description=Automatically enable DT2W if your device/kernel supports it.
-updateJson=
+updateJson=https://raw.githubusercontent.com/Rem01Gaming/dt2w_enabler/main/update.json
